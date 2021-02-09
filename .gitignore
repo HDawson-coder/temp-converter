@@ -2,3 +2,5 @@ out
 *.jar
 .gradle
 .idea
+.floo
+build
